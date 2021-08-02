@@ -5,7 +5,7 @@ date: 2021-08-02T07:46:42.452Z
 description: Un délicieux cake à la banane, parfait pour le petit déjeuner. De
   plus, cette recette permet d’éviter le gaspillage des bananes trop mûres.
 featuredpost: true
-featuredimage: /img/couv-cake-banana.jpg
+featuredimage: /img/couv-1-banane-bread.png
 tags:
   - petitdej
 ---
