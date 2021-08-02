@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Recette Pâtes au chorizo
+title: Recette pâtes au chorizo
 date: 2021-05-16T09:48:31.012Z
 description: Égayez vos plats de pâtes avec une savoureuse sauce au chorizo.
 featuredpost: true
