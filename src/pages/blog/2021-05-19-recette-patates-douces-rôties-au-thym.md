@@ -8,6 +8,7 @@ featuredpost: true
 featuredimage: /img/couv-patate-douce.jpg
 tags:
   - antiinflam
+  - vegetarien
 ---
 Temps de préparation : 15min\
 Temps de cuisson : 30min
