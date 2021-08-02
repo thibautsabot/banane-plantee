@@ -17,6 +17,7 @@ const TITLE = {
   dessert: "Desserts",
   petitdej: "Petits déjeuners",
   antigaspi: "Anti-gaspi",
+  apero: "Apéritif",
 };
 
 const TagRoute = ({ pageContext, data }) => {

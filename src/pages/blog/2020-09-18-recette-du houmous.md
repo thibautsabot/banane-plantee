@@ -7,7 +7,7 @@ description: Indispensable pour l'apéro, le houmous maison est vraiment rapide
 featuredpost: true
 featuredimage: /img/bol-houmous-.jpg
 tags:
-  - entree
+  - apero
 ---
 Temps de préparation : 5min 
 

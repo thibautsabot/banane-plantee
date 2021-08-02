@@ -107,6 +107,9 @@ const Navbar = () => {
                 <p className="navbar-link">Recettes</p>
 
                 <div className="navbar-dropdown">
+                  <Link className="navbar-item" to="/tags/apero">
+                    Apéritif
+                  </Link>
                   <Link className="navbar-item" to="/tags/entree">
                     Entrées
                   </Link>

@@ -24,7 +24,7 @@ const IndexPage = () => {
                       </h1>
                       <p>
                         Je suis passionnée de cuisine et je me suis lancée dans
-                        l'aventure zéro déchet depuis quelques mois. En effet,
+                        l'aventure zéro déchet depuis un an. En effet,
                         suite à une prise de conscience et une envie de réduire
                         mon impact écologique, j’ai entrepris de nombreuses
                         modifications dans ma vie et surtout dans ma cuisine.

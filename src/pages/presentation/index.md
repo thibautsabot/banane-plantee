@@ -6,9 +6,9 @@ title: Tout d'abord Bonjour et Bienvenue sur mon blog !
 
 ## Faisons un peu connaissance !
 
-Je m'appelle **Candice** et j'ai 26 ans. Originaire de la région Rhône-Alpes, j'habite actuellement sur Paris. Je suis infirmière depuis 4 ans et je suis <u>surtout</u> passionnée de cuisine. J'adore découvrir et tester de nouvelles recettes.
+Je m'appelle **Candice** et j'ai 26 ans. Originaire de la région Rhône-Alpes, j'habite actuellement sur Paris. Je suis infirmière depuis 5 ans et je suis <u>surtout</u> passionnée de cuisine. J'adore découvrir et tester de nouvelles recettes.
 
-J'ai décidé de créer ce blog afin de partager mes recettes et astuces de cuisine. Mais, je souhaite également partager mon expérience, car je me suis lancée depuis quelques mois dans une "démarche zéro déchet".
+J'ai décidé de créer ce blog afin de partager mes recettes et astuces de cuisine. Mais, je souhaite également partager mon expérience, car je me suis lancée depuis un an dans une "démarche zéro déchet".
 
 ![Candice](/img/candice.png "Candice")
 

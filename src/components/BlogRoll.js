@@ -29,7 +29,7 @@ const BlogRoll = ({ data }) => {
                 ) : null}
                 <p className="post-meta">
                   <Link
-                    className="article-link title has-text-primary is-size-4"
+                    className="article-link title has-text-primary is-size-3"
                     to={post.fields.slug}
                   >
                     {post.frontmatter.title}

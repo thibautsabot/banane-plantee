@@ -9,8 +9,8 @@ import React from "react";
 export const featuredImageFragment = graphql`
   fragment featuredImageFragment on ImageSharp {
     gatsbyImageData(
-      width: 120
-      height: 120
+      width: 180
+      height: 180
       layout: FIXED
       placeholder: DOMINANT_COLOR
       transformOptions: { fit: COVER, cropFocus: CENTER }
