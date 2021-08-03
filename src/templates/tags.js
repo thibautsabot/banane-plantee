@@ -1,24 +1,10 @@
 import Banner from "../components/Banner";
 import BlogRoll from "../components/BlogRoll";
+import { CATEGORIES } from '../components/Categories'
 import { Helmet } from "react-helmet";
 import Layout from "../components/Layout";
 import React from "react";
 import { graphql } from "gatsby";
-
-const TITLE = {
-  autres: "Autres",
-  divers: "Autres articles",
-  zerodechet: "Zéro Déchet",
-  entree: "Entrées",
-  vegetarien: "Plats végétariens",
-  boissons: "Boissons",
-  plats: "Plats",
-  antiinflam: "Anti-inflammatoire",
-  dessert: "Desserts",
-  petitdej: "Petits déjeuners",
-  antigaspi: "Anti-gaspi",
-  apero: "Apéritif",
-};
 
 const TagRoute = ({ pageContext, data }) => {
   const tag = pageContext.tag;
@@ -28,7 +14,7 @@ const TagRoute = ({ pageContext, data }) => {
     <Layout>
       <section>
         <Helmet title={`${tag} | ${title}`} />
-        <Banner title={TITLE[tag] || "Blog"} />
+        <Banner title={CATEGORIES[tag].title || "Blog"} />
         <div className="container content">
           <div role="main">
             <BlogRoll data={data} />
