@@ -99,6 +99,16 @@ const Navbar = () => {
               <Link className="navbar-link is-arrowless" to="/categories">
                 Recettes
               </Link>
+              <div
+                role="link"
+                onKeyPress={onSubNavBarKeyPress}
+                tabIndex="0"
+                onClick={toggleSubNavbar}
+                className={`menuArrowContainer ${subnavBarActiveClass}`}
+                aria-roledescription="Menu déroulant catégories"
+              >
+                <div className="menuArrow" />
+              </div>
               <div className="navbar-dropdown">
                 <Link className="navbar-item" to="/tags/apero">
                   Apéritif
@@ -132,15 +142,7 @@ const Navbar = () => {
                 </Link>
               </div>
             </div>
-            <div
-              role="link"
-              onKeyPress={onSubNavBarKeyPress}
-              tabIndex="0"
-              onClick={toggleSubNavbar}
-              className={`menuArrowContainer ${subnavBarActiveClass}`}
-            >
-              <div className="menuArrow" />
-            </div>
+
             <Link className="navbar-item" to="/tags/zerodechet">
               Zéro déchet
             </Link>
