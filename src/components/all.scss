@@ -329,6 +329,19 @@ footer.footer {
   }
 }
 
+@media (max-width: 1024px) {
+  .menuArrowContainer {
+    position: absolute;
+    height: 40px !important;
+    top: 0;
+    right: -5px;
+  }
+
+  .menuArrowContainer.is-active {
+    padding-top: 15px !important;
+  }
+}
+
 @media (max-width: 768px) {
   .blog-list-item header {
     display: block;
@@ -363,18 +376,6 @@ footer.footer {
   .results-container {
     width: 300px;
   }
-
-  .menuArrowContainer {
-    position: absolute;
-    height: 40px !important;
-    top: 0;
-    right: -5px;
-    padding-top: 20px !important;
-  }
-
-  .menuArrowContainer.is-active {
-    padding-top: 30px !important;
-  }
 }
 
 .navbar-link {
@@ -408,6 +409,10 @@ a.navbar-item:hover {
 
 .recupeContainer {
   margin-top: 20px;
+}
+
+.has-dropdown:not(.is-active) > .navbar-dropdown {
+  display: none;
 }
 
 .smallText {
