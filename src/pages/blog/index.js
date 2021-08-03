@@ -6,25 +6,12 @@ import React from "react";
 // Only used for squared thumbnail on homepage and tags
 // https://www.gatsbyjs.com/docs/reference/release-notes/image-migration-guide/
 
-export const featuredImageFragment = graphql`
-  fragment featuredImageFragment on ImageSharp {
-    gatsbyImageData(
-      width: 180
-      height: 180
-      layout: FIXED
-      placeholder: DOMINANT_COLOR
-      transformOptions: { fit: COVER, cropFocus: CENTER }
-      formats: [AUTO, WEBP]
-    )
-  }
-`;
-
 const query = graphql`
   query BlogRollQuery {
     allMarkdownRemark(
       sort: { order: DESC, fields: [frontmatter___date] }
       filter: { frontmatter: { templateKey: { eq: "blog-post" } } }
-      limit: 6
+      limit: 9
     ) {
       edges {
         node {
@@ -40,7 +27,14 @@ const query = graphql`
             featuredpost
             featuredimage {
               childImageSharp {
-                ...featuredImageFragment
+                gatsbyImageData(
+                  width: 250
+                  height: 250
+                  layout: FIXED
+                  placeholder: DOMINANT_COLOR
+                  transformOptions: { fit: COVER, cropFocus: CENTER }
+                  formats: [AUTO, WEBP]
+                )
               }
             }
           }
@@ -54,7 +48,7 @@ export default class BlogIndexPage extends React.Component {
     return (
       <StaticQuery
         query={query}
-        render={(data, count) => <BlogRoll data={data} count={count} />}
+        render={(data) => <BlogRoll data={data} isHome />}
       />
     );
   }

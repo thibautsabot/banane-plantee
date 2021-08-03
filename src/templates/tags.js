@@ -54,7 +54,14 @@ export const tagPageQuery = graphql`
             featuredpost
             featuredimage {
               childImageSharp {
-                ...featuredImageFragment
+                gatsbyImageData(
+                  width: 180
+                  height: 180
+                  layout: FIXED
+                  placeholder: DOMINANT_COLOR
+                  transformOptions: { fit: COVER, cropFocus: CENTER }
+                  formats: [AUTO, WEBP]
+                )
               }
             }
           }

@@ -149,6 +149,10 @@ body {
   flex-direction: column;
 }
 
+.flexColumn {
+  flex-direction: column;
+}
+
 .icon svg {
   width: 1.5rem;
   height: 1.5rem;
@@ -273,6 +277,10 @@ footer.footer {
   appearance: none;
   outline: none;
   width: 150px;
+}
+
+.title {
+  font-size: 1.5rem !important;
 }
 
 .recipeCatContainer {
