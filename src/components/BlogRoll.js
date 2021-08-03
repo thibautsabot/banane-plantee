@@ -11,7 +11,7 @@ const BlogRoll = ({ data, isHome }) => {
       {posts &&
         posts.map(({ node: post }) => (
           <div
-            className={`is-parent column is-${isHome ? "4" : "6"}`}
+            className={`is-parent column ${isHome ? "threeCol" : "twoCol"}`}
             key={post.id}
           >
             <article
