@@ -9,7 +9,7 @@ description: >
 featuredpost: true
 featuredimage: /img/popcorn-couverture.jpg
 tags:
-  - entree
+  - apero
 ---
 Temps de préparation : 10min
 
