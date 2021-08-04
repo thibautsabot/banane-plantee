@@ -153,16 +153,6 @@ body {
   flex-direction: column;
 }
 
-.twoCol {
-  flex: none;
-  width: 50%;
-}
-
-.threeCol {
-  flex: none;
-  width: 33.3%;
-}
-
 .icon svg {
   width: 1.5rem;
   height: 1.5rem;
@@ -330,6 +320,18 @@ footer.footer {
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+}
+
+@media (min-width: 1024px) {
+  .twoCol {
+    flex: none;
+    width: 50%;
+  }
+
+  .threeCol {
+    flex: none;
+    width: 33.3%;
+  }
 }
 
 // responsiveness;
