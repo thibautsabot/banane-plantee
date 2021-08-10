@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Recette croissant jambon fromage
-date: 2021-08-02T10:56:21.375Z
+date: 2021-08-10T07:20:43.024Z
 description: "Recette expresse : savoureux croissants au jambon et au fromage
   qui permet d’éviter le gaspillage des croissants rassis."
 featuredpost: true
