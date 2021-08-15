@@ -2,7 +2,8 @@
 templateKey: blog-post
 title: Recette guacamole
 date: 2021-08-15T09:59:38.056Z
-description: Recette ultra rapide, parfaite pour l’apéro accompagnée de chips de tortillas.
+description: Recette ultra rapide, parfaite pour l’apéro accompagnée de chips ou
+  de tortillas.
 featuredpost: true
 featuredimage: /img/couv-guacamole.jpg
 tags:
