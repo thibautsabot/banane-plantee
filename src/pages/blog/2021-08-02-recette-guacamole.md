@@ -6,7 +6,7 @@ description: Recette ultra rapide, parfaite pour l’apéro accompagnée de chip
 featuredpost: true
 featuredimage: /img/couv-guacamole.jpg
 tags:
-  - entree
+  - apero
 ---
 Temps de préparation : 10min
 
