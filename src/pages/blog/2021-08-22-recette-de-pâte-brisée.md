@@ -5,7 +5,7 @@ date: 2021-08-22T09:22:06.224Z
 description: Voici une recette vraiment rapide pour réaliser vos fonds de tartes
   salées maisons.
 featuredpost: true
-featuredimage: /img/couv-pate-brise.jpg
+featuredimage: /img/fond-de-tarte-brisee.jpg
 tags:
   - autres
 ---
@@ -44,6 +44,6 @@ Ensuite, farinez votre plan de travail et étalez votre pâte à l’aide d’un
 Déposez-la dans un moule beurré et fariné.\
 Piquez la pâte à l’aide d’une fourchette 
 
-![Pâté brisée déposé dans un moule à tarte beurré et fariné puis piqué a la fourchette, prêt à être garnie ou cuit](/img/couv-pate-brise.jpg "Pâté brisée avant cuisson ")
+![Pâté brisée déposé dans un moule à tarte beurré et fariné puis piqué a la fourchette, prêt à être garnie ou cuit](/img/fond-de-tarte-brisee.jpg "Pâté brisée avant cuisson ")
 
-Cuire la pâte brisée à sec ou avec sa garniture en fonction de votre recette pendant 25minutes environ à 180°, jusqu’à que la pâte soit doré.
+Cuire la pâte brisée à sec ou avec sa garniture en fonction de votre recette à 180° pendant 25minutes environ, jusqu’à que la pâte soit doré.
