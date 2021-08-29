@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Recette d’aubergines à la tomate rôtie au four
 date: 2021-08-29T09:56:09.725Z
 description: La cuisson des aubergines au four permet d’obtenir une texture
-  fondante. Cette recette vraiment simple à réaliser se déguste seule ou en
+  fondante. Cette recette vraiment simple à réaliser, se déguste seule ou en
   accompagnement.
 featuredpost: true
 featuredimage: /img/couv-aubergine.jpg
