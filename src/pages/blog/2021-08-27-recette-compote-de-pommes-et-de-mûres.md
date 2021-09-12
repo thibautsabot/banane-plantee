@@ -3,7 +3,7 @@ templateKey: blog-post
 title: "  Recette compote de pommes et de mûres"
 date: 2021-09-12T09:30:23.517Z
 description: Le mélange entre des pommes et des fruits des bois, est idéal pour
-  un gouter ou un dessert savoureux.
+  un goûter ou un dessert savoureux.
 featuredpost: true
 featuredimage: /img/couv-1-compote.jpg
 tags:
