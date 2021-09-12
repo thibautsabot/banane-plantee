@@ -11,7 +11,7 @@ tags:
   - dessert
 ---
 Temps de préparation : 20min\
-Temps de caisson : 15min\
+Temps de cuisson : 15min\
 Nombre de parts : 15 cookies
 
 ## Ingrédients :
