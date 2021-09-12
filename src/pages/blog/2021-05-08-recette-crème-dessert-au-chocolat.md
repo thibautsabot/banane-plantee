@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Recette crème dessert au chocolat
-date: 2021-05-08T13:19:01.021Z
+date: 2021-09-11T09:32:23.003Z
 description: Recette facile de crème dessert au chocolat, plus besoin de les
   acheter, faites-les maison.
 featuredpost: true
