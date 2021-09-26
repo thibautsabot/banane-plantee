@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Recette banana bread
-date: 2021-08-02T07:46:42.452Z
+date: 2021-09-26T08:50:30.111Z
 description: Un délicieux cake à la banane, parfait pour le petit déjeuner. De
   plus, cette recette permet d’éviter le gaspillage des bananes trop mûres.
 featuredpost: true
