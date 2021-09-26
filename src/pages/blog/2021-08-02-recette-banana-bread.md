@@ -8,6 +8,7 @@ featuredpost: true
 featuredimage: /img/couv-1-banane-bread.png
 tags:
   - petitdej
+  - antigaspi
 ---
 Temps de préparation : 15min\
 Temps de cuisson : 45min
