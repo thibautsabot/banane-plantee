@@ -8,23 +8,22 @@ featuredimage: /img/couv-2-muffin.jpg
 tags:
   - dessert
 ---
-
 Temps de préparation : 20min\
 Temps de cuisson : 15min\
 Nombre de parts : 6 muffins
 
 ## Ingrédients :
 
-- 200g de farine
-- 1 œufs
-- 70g de cassonade
-- 30g de cacao amer
-- ½ sachet de levure chimique
-- 150 ml de lait
-- 1 cuillère à soupe d’extrait de vanille
-- 1 pincée de sel
-- 60g de pépites de chocolat
-- Pâte à tartiner
+* 200g de farine
+* 1 œufs
+* 70g de cassonade
+* 20g de cacao amer
+* ½ sachet de levure chimique
+* 160 ml de lait
+* 1 cuillère à soupe d’extrait de vanille
+* 1 pincée de sel
+* 60g de pépites de chocolat
+* Pâte à tartiner
 
 ## Réalisation :
 
@@ -40,7 +39,7 @@ Incorporez ce mélange aux ingrédients secs puis ajoutez progressivement le lai
 ![Ajout du mélange oeuf/sucre et du lait progressivement aux ingrédients secs](/img/pate-avec-ajout-lait.jpg "Préparation de la pâte")
 
 Une fois que vous avez obtenu une pâte bien homogène, ajoutez ¾ des pépites de chocolat.\
-_Vous pouvez utiliser des pépites ou découper simplement du chocolat en petits morceaux._
+*Vous pouvez utiliser des pépites ou découper simplement du chocolat en petits morceaux.*
 
 ![Carrées de chocolat découpés en petits morceaux](/img/pepite-choc.jpg "Pépites chocolat ")
 
