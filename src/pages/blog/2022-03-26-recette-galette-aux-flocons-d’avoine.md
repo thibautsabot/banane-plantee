@@ -30,7 +30,7 @@ Mélangez jusqu’à obtenir un ensemble homogène.
 
 ![Préparation pour la galette ](/img/melange-galette.jpg "Ensemble des ingrédients mélangé dans un bol formant une préparation prête à être cuite")
 
-Versez votre préparation dans la poêle et laissez cuire quelques minutes.
+Versez la préparation dans une petite poêle en formant une galette et laissez cuire quelques minutes.
 
 ![Cuisson galette ](/img/cuisson-galette-premier-cote.jpg "Préparation versé dans la poêle avec de l'huile de coco, cuisson du premier côté de la galette")
 
