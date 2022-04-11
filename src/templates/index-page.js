@@ -23,24 +23,22 @@ const IndexPage = () => {
                         Bienvenue dans ma cuisine !
                       </h1>
                       <p>
-                        Je suis passionnée de cuisine et je me suis lancée dans
-                        l'aventure zéro déchet depuis un an. En effet,
-                        suite à une prise de conscience et une envie de réduire
-                        mon impact écologique, j’ai entrepris de nombreuses
-                        modifications dans ma vie et surtout dans ma cuisine.
-                      </p>
-                      <p className="smallText">
+                        Après quelques mois d'absence, je reviens vous partager
+                        mes recettes de cuisine et mes astuces zéro déchet.
+                        <br /> <br />
+                        Toujours autant passionnée de cuisine, je continue à
+                        réaliser de nombreuses recettes et je suis toujours dans
+                        une démarche de réduction de mes déchets. Mais cela
+                        demande du temps, de la patience et de l'adaptation
+                        alors sur ce blog je vous partage mon expérience, mes
+                        astuces et mon organisation en ce qui concerne le zéro
+                        déchet. <br /> <br />
                         <Link to="/presentation">
-                          Si vous voulez en savoir plus
+                          Si vous voulez en savoir plus sur moi
                         </Link>
-                        , n’hésitez pas à vous rendre dans la partie
-                        présentation.
-                      </p>
-                      <p>
-                        Sur ce blog, je vous partage donc mes nombreuses
-                        recettes, autant sucrées que salées. Mais également mon
-                        expérience et mes astuces en ce qui concerne le zéro
-                        déchet.
+                        , ma prise de conscience et mon envie de réduire mon
+                        impact écologique, n’hésitez pas à vous rendre dans la
+                        partie présentation.
                       </p>
                       <p>
                         Bonne visite sur <strong>Bananeplantée !</strong>

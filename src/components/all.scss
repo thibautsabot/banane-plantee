@@ -5,6 +5,10 @@ $body-color: #333;
 $black: #2b2523;
 $candice-green: #007000;
 
+article {
+  background-color: #efefef !important;
+}
+
 html {
   height: 100%;
   background-color: $candice-green
@@ -17,6 +21,7 @@ body {
 
 .layout-children {
   flex: 1;
+  margin-bottom: 40px;
 }
 
 .footer-colums {
