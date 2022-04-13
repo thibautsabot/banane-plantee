@@ -42,8 +42,6 @@ Râpez finement les carottes et découpez les accompagnements (ici les olives, l
 
 Ajoutez à la pâte, les carottes râpées, les accompagnements et la poignée d’emmental râpé.
 
-![Pâte carrot cake avec les accompagnements dans un saladier ](/img/pate.jpg "Pâte carrot cake ")
-
 Versez la préparation dans un moule à cake beurré et fariné.
 
 ![Pâte versé dans un moule á cake, avant cuisson](/img/cake-avant-cuisson.jpg "Cake avant cuisson ")
