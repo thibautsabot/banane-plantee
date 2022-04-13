@@ -40,8 +40,7 @@ Râpez finement les carottes et découpez les accompagnements (ici les olives, l
 
 ![Accompagnements fete, olives, tomates séchées découpés](/img/accompagnements.jpg "Accompagnements")
 
-Ajoutez à la pâte, les carottes râpées, les accompagnements et la poignée d’emmental râpé.
-
+Ajoutez à la pâte, les carottes râpées, les accompagnements et la poignée d’emmental râpé.\
 Versez la préparation dans un moule à cake beurré et fariné.
 
 ![Pâte versé dans un moule á cake, avant cuisson](/img/cake-avant-cuisson.jpg "Cake avant cuisson ")
