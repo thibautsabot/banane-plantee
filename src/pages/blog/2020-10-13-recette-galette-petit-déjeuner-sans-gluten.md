@@ -28,7 +28,7 @@ Vous pouvez très bien utiliser de la farine ou même de la crème d’avoine pr
 Dans un bol, versez l’œuf entier, le lait, le sirop d’agave et la crème de riz.\
 Vous pouvez ajouter les pépites de chocolat ou sinon vous pouvez laisser la préparation nature et mettre après cuisson sur votre galette n’importe quelle pâte à tartiner.
 
-![Ensemble des ingrédients dans un bol](/img/melange-galette.jpg "Ingrédients ")
+![Ensemble des ingrédients dans un bol](/img/melange-pour-galette.jpg "Ingrédients ")
 
 Mélangez jusqu’à qu’il n’y est plus de grumeaux.
 
