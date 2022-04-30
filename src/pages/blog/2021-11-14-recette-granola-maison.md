@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: "Recette granola maison  "
-date: 2021-11-14T16:07:02.589Z
+date: 2022-04-30T16:50:51.569Z
 description: Le granola est un mélange cuit de céréales et de fruits à coque.
   Fait maison, c’est une solution idéale pour un petit déjeuner sain et rapide.
 featuredpost: true
