@@ -42,7 +42,7 @@ Mélangez jusqu’à obtenir une pâte homogène.
 
 ![Ensemble des ingrédients secs et liquides mélanges ensemble formant une pâte homogène](/img/pate-financier-.jpg "Pâte financier ")
 
- Versez la préparation dans des moules à financier et faites cuire 20min environ.
+ Versez la préparation dans des moules à financier et faites cuire entre 15 et 20min environ.
 
 ![Pâte versé dans des moules à financiers ](/img/financier-avant-cuisson.jpg "Financiers avant cuisson ")
 
