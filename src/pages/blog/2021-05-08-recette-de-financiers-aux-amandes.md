@@ -16,7 +16,7 @@ Nombre de parts : une dizaine de financiers
 
 ## Ingrédients :
 
-* 90g de sucre glace
+* 85g de sucre glace
 * 100g de beurre
 * 4 blancs d’œufs
 * 50g de farine
