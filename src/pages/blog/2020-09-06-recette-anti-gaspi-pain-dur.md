@@ -2,8 +2,8 @@
 templateKey: blog-post
 title: "Recette anti-gaspi pain dur "
 date: 2020-09-06T17:35:08.011Z
-description: Dans cette catégorie de recette, je vous fais partager mes astuces pour
-  éviter le gaspillage alimentaire.
+description: Dans cette catégorie de recette, je vous fais partager mes astuces
+  pour éviter le gaspillage alimentaire.
 featuredpost: true
 featuredimage: /img/pain.jpg
 tags:
@@ -13,7 +13,7 @@ tags:
 
 ## 1ère possibilité : Faire sa chapelure maison
 
-Coupez le pain dur en morceaux et mettez-le dans un mixeur/blinder assez puissant.\
+Coupez le pain dur en morceaux et mettez-le dans un mixeur/blender assez puissant.\
 Mixer jusqu’à obtenir de la chapelure.\
 Vous pouvez rajouter des épices, herbes (paprika, herbes de Provences…) dans votre chapelure afin de l’aromatiser.\
 Se converse très longtemps dans un pot en verre.
