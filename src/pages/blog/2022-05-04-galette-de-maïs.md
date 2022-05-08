@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
-title: Galette de maïs
-date: 2022-05-04T14:37:52.102Z
+title: Recette galettes de maïs
+date: 2022-05-08T07:57:47.240Z
 description: Voici une recette rapide et végétarienne. Ces petites galettes de
   maïs, accompagnées de sauce aigre-douce sont parfaites pour l’apéro.
 featuredpost: true
