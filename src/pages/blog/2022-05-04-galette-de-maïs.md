@@ -30,7 +30,7 @@ Nombre de parts : 10 petites galettes
 
 Hachez finement l’ail et l'oignon.
 
-Dans un saladier versez le maïs, l’œuf, la farine, le sucre, le sel, le poivre, le paprika, l’ail et l’oignon découpé puis mélangé.
+Dans un saladier versez le maïs, l’œuf, la farine, le sucre, le sel, le poivre, le paprika, l’ail et l’oignon puis mélangez.
 
 ![Mélange de tout les ingrédients des galettes dans un saladier](/img/melange-ingredients-galette-mais.jpg "Mélange ingrédients ")
 
@@ -46,6 +46,6 @@ Déposez les galettes sur du papier absorbant afin d’enlever l’excédent d�
 
 ![Galettes cuites et déposé sur du papier absorbant. ](/img/galette-cuite.jpg "Galettes cuites ")
 
-Ce déguste tiède seul ou avec de la sauce aigre-douce.
+Se déguste tiède, sans accompagnement ou avec de la sauce aigre-douce.
 
 ![Galettes de maïs dans une assiette avec de la sauce aigre-douce déposé sur le côté ](/img/couv-1-galette-mais-.jpg "Galettes avant dégustation")
