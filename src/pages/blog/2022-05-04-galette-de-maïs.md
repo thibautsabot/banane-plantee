@@ -15,7 +15,7 @@ Nombre de parts : 10 petites galettes
 
 ## Ingrédients :
 
-* 1 petite boîte de maïs égoutté de 140g
+* 1 petite boîte de maïs égouttés de 140g
 * 1 œuf
 * 3 cuillères à soupe de farine
 * 1/2 d’oignon
