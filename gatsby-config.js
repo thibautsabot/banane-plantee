@@ -10,7 +10,7 @@ module.exports = {
   },
   flags: {
     PRESERVE_FILE_DOWNLOAD_CACHE: true,
-    FAST_DEV: true
+    FAST_DEV: true,
   },
   plugins: [
     "gatsby-plugin-image",
