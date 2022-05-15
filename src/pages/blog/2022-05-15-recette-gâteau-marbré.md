@@ -38,7 +38,7 @@ Ajoutez ensuite la farine, la levure et le lait puis mélangez.
 
 Montez les blancs en neige et ajoutez-les délicatement à la préparation.
 
-![Introduction des blancs monté en neige à la préparation précédente à l'aide d'une spatule](/img/introduction-blanc-en-neige-marbre.jpg "Introduction des blancs en neige ")
+![Introduction des blancs montés en neige à la préparation précédente à l'aide d'une spatule](/img/introduction-blanc-en-neige-marbre.jpg "Introduction des blancs en neige ")
 
 Séparez la pâte en 2 parts égale.\
 Dans une partie ajoutez le cacao amer et dans la partie ajoutez l’extrait de vanille.
