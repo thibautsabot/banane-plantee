@@ -36,7 +36,7 @@ Ajoutez ensuite la farine, la levure et le lait puis mélangez.
 
 ![Mélange des premiers ingrédients dans un saladier ](/img/prepa-pate-marbre.jpg "Préparation marbré")
 
-Montez les blancs en neige et rajoutez délicatement à la préparation.
+Montez les blancs en neige et ajoutez-les délicatement à la préparation.
 
 ![Introduction des blancs monté en neige à la préparation précédente à l'aide d'une spatule](/img/introduction-blanc-en-neige-marbre.jpg "Introduction des blancs en neige ")
 
@@ -46,7 +46,7 @@ Dans une partie ajoutez le cacao amer et dans la partie ajoutez l’extrait de v
 ![Pâtes à marbré séparer en deux : vanille et chocolat et mis dans des saladiers distincts ](/img/pate-vanille-et-chocolat.png "Les 2 pâtes à marbré")
 
 Beurrez et farinez un moule à cake et versez les deux préparations en alternance.\
-*Pour avoir un beau marbrage, mélanger les pâtes superposées a l'aide d'une pointe de couteau.* 
+*Pour avoir un beau marbrage, mélanger les pâtes superposées à l'aide d'une pointe de couteau.* 
 
 ![Pâtes à marbré versé en alternance dans un moule à cake après pour la cuisson](/img/marbre-avant-cuisson.jpg "Marbré avant cuisson")
 
