@@ -5,7 +5,7 @@ date: 2021-09-11T09:32:23.003Z
 description: Recette facile de crème dessert au chocolat, plus besoin de les
   acheter, faites-les maison.
 featuredpost: true
-featuredimage: /img/couv-1-crème-choco.jpg
+featuredimage: /img/couv-1-creme-choco.jpg
 tags:
   - dessert
 ---
