@@ -43,7 +43,7 @@ Montez les blancs en neige et ajoutez-les délicatement à la préparation.
 Séparez la pâte en 2 parts égale.\
 Dans une partie ajoutez le cacao amer et dans la partie ajoutez l’extrait de vanille.
 
-![Pâtes à marbré séparer en deux : vanille et chocolat et mis dans des saladiers distincts ](/img/pate-vanille-et-chocolat.png "Les 2 pâtes à marbré")
+![Pâtes à marbré séparer en deux: vanille et chocolat et mis dans des saladiers distincts ](/img/pate-vanille-et-chocolat.png "Les 2 pâtes à marbré")
 
 Beurrez et farinez un moule à cake et versez les deux préparations en alternance.\
 *Pour avoir un beau marbrage, mélanger les pâtes superposées à l'aide d'une pointe de couteau.* 
