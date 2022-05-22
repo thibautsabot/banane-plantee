@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: "Recette moelleux au chocolat – nappage chocolat/noix de coco "
+title: "Recette cake moelleux au chocolat – nappage chocolat/noix de coco "
 date: 2021-02-02T10:03:34.493Z
 description: |
   Recette parfaite pour les fans de chocolat et noix de coco, un vrai délice ! 
@@ -41,8 +41,8 @@ Faites fondre le chocolat noir et le beurre au bain-marie.
 ![Chocolat et beurre au bain-marie ](/img/chocolat-et-beurre-fondu.jpg "Chocolat et beurre fondu ")
 
 Dans un saladier, fouettez les 4 jaunes d’œufs avec le sucre jusqu’à ce que le mélange blanchisse.\
-Une fois fondu, versez le mélange chocolat/beurre à la préparation. \
-Ajoutez ensuite la farine.
+Une fois fondu, versez le mélange chocolat/beurre au mélange précédent. \
+Ajoutez ensuite la farine et la levure chimique.  
 
 ![Ajout de la farine à la préparation pour obtenir une pâte homogène ](/img/pate-avec-farine.jpg "Pâte en préparation")
 
