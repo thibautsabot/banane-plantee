@@ -21,7 +21,7 @@ Nombre de personnes : 4 personnes
 
  Pour la marinade :
 
-*  1 yaourt
+* 1 yaourt
 * 1 cuillère à soupe d’épice Garam Massala
 * 1 cuillère à soupe d’épice Tandoori
 * 2 cuillères à soupe de jus de citron
