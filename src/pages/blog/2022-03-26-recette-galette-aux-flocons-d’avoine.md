@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Recette galette aux flocons d’avoine
-date: 2022-03-26T09:26:11.197Z
+date: 2022-06-03T13:30:35.615Z
 description: Voici une recette rapide de galette aux flocons d’avoine pour un
   petit déjeuner sain, qui permet de rester en pleine forme toute la matinée.
 featuredpost: true
