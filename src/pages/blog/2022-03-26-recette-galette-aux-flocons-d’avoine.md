@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Recette galette aux flocons d’avoine
-date: 2022-03-26T09:26:11.197Z
+date: 2022-06-03T13:30:35.615Z
 description: Voici une recette rapide de galette aux flocons d’avoine pour un
   petit déjeuner sain, qui permet de rester en pleine forme toute la matinée.
 featuredpost: true
@@ -39,11 +39,7 @@ Une fois que la galette se décolle bien, retournez là et faites cuire de nouve
 
 ![Cuisson de la galette, deuxième côté](/img/cuisson-deuxieme-cote.jpg "Cuisson du deuxième côté de la galette, retourné à l'aide d'une petite assiette ")
 
-Pendant la cuisson, coupé un carré de chocolat en copeaux et déposez-les sur la galette en fin de cuisson. \
-Le chocolat va fondre.
-
-![Copeaux de chocolat ](/img/copeaux-chocolat.jpg "Carré de chocolat coupé en copeaux à l'aide d'une couteau dans une assiette ")
-
+Pendant la cuisson, coupé un carré de chocolat en copeaux et déposez-les sur la galette en fin de cuisson pour que le chocolat fonde. \
 Pour finir, vous pouvez ajouter de la noix de coco râpée.
 
 ![Galette avec topping](/img/galette-cuite-avec-topping.jpg "Galette cuite dans la poêle avec les topping : copeaux de chocolat et noix de coco râpée avant d'être déposé dans une assiette pour la dégustation")
