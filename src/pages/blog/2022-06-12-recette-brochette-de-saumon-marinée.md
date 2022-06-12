@@ -20,7 +20,7 @@ Temps de repos : 2 à 3h de repos
 * 2 pavés de saumon *(un pavé de saumon par personne)*
 * 1/4 de courgette
 * 1 cuillère à soupe de miel
-* *Piques à brochettes de moyenne taille* 
+* *Piques à brochettes de taille moyenne* 
 
 ### Ingrédients marinade :
 
