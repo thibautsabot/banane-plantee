@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Recette brochette de saumon marinée
+title: Recette brochettes de saumon marinées
 date: 2022-06-12T08:26:52.084Z
 description: Une recette légère pour l'été qui peut convenir autant pour
   l’apéro, qu’en entrée ou même en plats accompagnés de pomme de terre ou de
