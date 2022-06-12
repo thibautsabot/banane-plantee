@@ -22,7 +22,7 @@ Temps de repos : 2 à 3h de repos
 * 1 cuillère à soupe de miel
 * *Piques à brochettes de taille moyenne* 
 
-### Ingrédients marinade :
+#### Ingrédients marinade :
 
 * 3 cuillères à soupe de jus de citron
 * 1 cuillère à soupe d’huile d’olive
@@ -54,14 +54,15 @@ Sur chaque brochette mettre 4 morceaux de saumons et 2 morceaux de courgettes.
 
 ![Ensemble des brochettes monté et déposé dans une assiette avant cuisson](/img/brochette-avant-cuisson.jpg "Brochettes avant cuisson")
 
-*Vous pouvez faire cuire vos pochettes à la poêle ou au barbecue*.
+*Vous pouvez faire cuire vos brochettes à la poêle ou au barbecue*.
 
-Cuisson à la poêle :\
+##### Cuisson à la poêle :
+
 Versez le reste de marinade dans une poêle chaude avec le miel.\
 Déposez les brochettes et faites cuire quelques minutes chaque face des brochettes.
 
 ![Cuisson des brochettes avec la marinade et du miel dans une grande poêle ](/img/cuisson-des-brochettes.jpg "Cuisson des brochettes ")
 
-Une fois les cuitent, laquez les brochettes à l’aide d’un pinceau avec le reste du mélange marinade/miel chaud.
+Une fois cuitent, laquez les brochettes à l’aide d’un pinceau avec le reste du mélange marinade/miel chaud.
 
 ![Brochettes de saumon/courgette servie dans une assiette avec des pomme de terre](/img/plat-saumon-brochette.jpg "Plat avec les brochettes de saumon/courgette")
