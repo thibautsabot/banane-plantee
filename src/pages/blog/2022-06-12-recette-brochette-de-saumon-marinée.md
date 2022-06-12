@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Recette brochette de saumon marinée
+title: Recette brochettes de saumon marinées
 date: 2022-06-12T08:26:52.084Z
 description: Une recette légère pour l'été qui peut convenir autant pour
   l’apéro, qu’en entrée ou même en plats accompagnés de pomme de terre ou de
@@ -20,7 +20,7 @@ Temps de repos : 2 à 3h de repos
 * 2 pavés de saumon *(un pavé de saumon par personne)*
 * 1/4 de courgette
 * 1 cuillère à soupe de miel
-* *Piques à brochettes de moyenne taille* 
+* *Piques à brochettes de taille moyenne* 
 
 ### Ingrédients marinade :
 
@@ -54,14 +54,15 @@ Sur chaque brochette mettre 4 morceaux de saumons et 2 morceaux de courgettes.
 
 ![Ensemble des brochettes monté et déposé dans une assiette avant cuisson](/img/brochette-avant-cuisson.jpg "Brochettes avant cuisson")
 
-*Vous pouvez faire cuire vos pochettes à la poêle ou au barbecue*.
+*Vous pouvez faire cuire vos brochettes à la poêle ou au barbecue*.
 
-Cuisson à la poêle :\
+##### Cuisson à la poêle :
+
 Versez le reste de marinade dans une poêle chaude avec le miel.\
 Déposez les brochettes et faites cuire quelques minutes chaque face des brochettes.
 
 ![Cuisson des brochettes avec la marinade et du miel dans une grande poêle ](/img/cuisson-des-brochettes.jpg "Cuisson des brochettes ")
 
-Une fois les cuitent, laquez les brochettes à l’aide d’un pinceau avec le reste du mélange marinade/miel chaud.
+Une fois cuitent, laquez les brochettes à l’aide d’un pinceau avec le reste du mélange marinade/miel chaud.
 
 ![Brochettes de saumon/courgette servie dans une assiette avec des pomme de terre](/img/plat-saumon-brochette.jpg "Plat avec les brochettes de saumon/courgette")
