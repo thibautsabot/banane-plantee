@@ -22,7 +22,7 @@ Temps de repos : 2 à 3h de repos
 * 1 cuillère à soupe de miel
 * *Piques à brochettes de taille moyenne* 
 
-#### Ingrédients marinade :
+### Ingrédients marinade :
 
 * 3 cuillères à soupe de jus de citron
 * 1 cuillère à soupe d’huile d’olive
