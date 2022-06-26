@@ -1,9 +1,9 @@
 ---
 templateKey: blog-post
-title: Recette cookies au chocolat
+title: "Recette cookies au chocolat "
 date: 2022-06-26T07:48:10.191Z
-description: Délicieuse recette de cookies au chocolat et pépites de chocolat
-  blanc. Parfait pour les addicts de chocolat.
+description: Délicieuse recette de cookies tout choco avec des pépites de
+  chocolat blanc, parfait pour les addicts de chocolat.
 featuredpost: true
 featuredimage: /img/couv-cookies.jpg
 tags:
@@ -37,7 +37,8 @@ Ajoutez ensuite le beurre pommade, les œufs et mélangez la pâte à la main ou
 
 ![Préparation de la pâte à cookies avec ajout du beurre et des oeufs](/img/prepa-cookie-choco.jpg "Préparation de la pâte à cookies")
 
-Pour avoir une bonne pâte à cookies, il ne faut pas trop la mélanger, elle ne doit pas être liquide. Dès que l’ensemble des ingrédients sont incorporés et que la pâte se décolle des parois, c’est prêt.
+Pour avoir une bonne pâte à cookies, il ne faut pas trop la mélanger, elle ne doit pas être liquide. \
+Dès que l’ensemble des ingrédients sont incorporés et que la pâte se décolle des parois, c’est prêt.
 
 Ensuite, découpez les carrés de chocolat blanc en petits morceaux et incorporez-les à la préparation.\
 *Vous pouvez en garder quelques pour les déposer par-dessus une fois les cookies formés.*
