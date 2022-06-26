@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Recette cookies au chocolat
-date: 2021-09-12T10:41:00.368Z
+date: 2022-06-26T07:46:54.599Z
 description: Délicieuse recette de cookies au chocolat et pépites de chocolat
   blanc. Parfait pour les addicts de chocolat.
 featuredpost: true
@@ -16,8 +16,9 @@ Nombre de parts : 15 cookies
 ## Ingrédients :
 
 * 210g de farine
-* 90g de cassonade
-* 40g de cacao en poudre amer
+* 85g de cassonade
+* 30g de cacao en poudre amer non sucré
+* 10g de cacao en poudre sucré
 * 1 cuillère à café de levure chimique
 * 1 pincée de sel
 * 2 œufs de taille moyenne
