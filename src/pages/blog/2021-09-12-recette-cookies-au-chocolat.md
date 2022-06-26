@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Recette cookies au chocolat
-date: 2022-06-26T07:46:54.599Z
+date: 2022-06-26T07:48:10.191Z
 description: Délicieuse recette de cookies au chocolat et pépites de chocolat
   blanc. Parfait pour les addicts de chocolat.
 featuredpost: true
