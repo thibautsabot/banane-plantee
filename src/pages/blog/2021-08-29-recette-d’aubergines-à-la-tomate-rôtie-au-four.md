@@ -9,7 +9,6 @@ featuredpost: true
 featuredimage: /img/couv-aubergine.jpg
 tags:
   - vegetarien
-  - antiinflam
 ---
 Temps de préparation : 10min\
 Temps de cuisson : 40min
