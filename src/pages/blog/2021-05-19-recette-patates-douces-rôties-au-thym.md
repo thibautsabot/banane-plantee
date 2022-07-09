@@ -7,7 +7,6 @@ description: Seul ou en accompagnement, ces rondelles de patates douces rôties
 featuredpost: true
 featuredimage: /img/couv-patate-douce.jpg
 tags:
-  - antiinflam
   - vegetarien
 ---
 Temps de préparation : 15min\
