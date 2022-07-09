@@ -15,9 +15,9 @@ Temps de cuisson 15min
 
 ## Ingrédients :
 
-* 140g de farine
+* 145g de farine
 * 110g de beurre mou
-* 80g de cassonade
+* 70g de cassonade
 * 1 œuf
 * 2 cuillères à soupe de sucre vanillé
 * 1 cuillère à café de levure chimique
@@ -51,4 +51,4 @@ Se déguste tiède ou froid.
 
 ![Part de blondie découpé en petit carré et déposé dans une assiette ](/img/assiette-bloodie.jpg "Blondie")
 
-*Vous pouvez ajouter du chocolat blanc dans la recette, cela se marie très bien avec la framboise*
+*Vous pouvez ajouter des pépites de chocolat blanc ou noir dans la recette, cela se marie très bien avec la framboise.*
