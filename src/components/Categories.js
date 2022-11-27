@@ -124,10 +124,6 @@ const CATEGORIES = {
       />
     ),
   },
-  divers: {
-    title: "Autres articles",
-    Image: null,
-  },
   zerodechet: {
     title: "Zéro Déchet",
     Image: null,
