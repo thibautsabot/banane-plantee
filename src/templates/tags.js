@@ -1,6 +1,6 @@
 import Banner from "../components/Banner";
 import BlogRoll from "../components/BlogRoll";
-import { CATEGORIES } from '../components/Categories'
+import { CATEGORIES } from "../components/Categories";
 import { Helmet } from "react-helmet";
 import Layout from "../components/Layout";
 import React from "react";
@@ -8,13 +8,13 @@ import { graphql } from "gatsby";
 
 const TagRoute = ({ pageContext, data }) => {
   const tag = pageContext.tag;
-  const title = data.site.siteMetadata.title;
+  const title = data.site.siteMetadata?.title;
 
   return (
     <Layout>
       <section>
         <Helmet title={`${tag} | ${title}`} />
-        <Banner title={CATEGORIES[tag].title || "Blog"} />
+        <Banner title={CATEGORIES[tag]?.title || "Blog"} />
         <div className="container content">
           <div role="main">
             <BlogRoll data={data} />
