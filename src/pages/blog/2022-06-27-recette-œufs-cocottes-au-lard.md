@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: Recette œufs cocottes au lard
-date: 2022-06-27T08:29:29.774Z
+date: 2023-01-24T10:01:43.736Z
 description: Délicieuse recette, pas chère et facile à réaliser. Le lard et le
   paprika fumé ajout encore plus de gourmandise à ce plat.
 featuredpost: true
