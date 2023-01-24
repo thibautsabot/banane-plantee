@@ -3,7 +3,7 @@ templateKey: blog-post
 title: Recette œufs cocottes au lard
 date: 2022-06-27T08:29:29.774Z
 description: Délicieuse recette, pas chère et facile à réaliser. Le lard et le
-  paprika fumé ajout encore plus de gourmandise a ce plat.
+  paprika fumé ajout encore plus de gourmandise à ce plat.
 featuredpost: true
 featuredimage: /img/couv-oeufs-cocotte.jpg
 tags:
