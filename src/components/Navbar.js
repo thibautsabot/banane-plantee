@@ -128,7 +128,7 @@ const Navbar = () => {
               onKeyPress={onSubNavBarKeyPress}
               onClick={toggleSubNavbar}
             >
-              <p className="navbar-link is-arrowless no-underline">Autres</p>
+              <p className="navbar-link is-arrowless no-underline">Articles</p>
               <div
                 role="link"
                 tabIndex="0"

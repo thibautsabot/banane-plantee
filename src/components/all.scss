@@ -3,7 +3,9 @@
 $primary: #ff0000;
 $body-color: #333;
 $black: #2b2523;
-$candice-green: #007000;
+$candice-brown: #694c3c;
+$candice-camel: #A68563;
+
 
 article {
   background-color: #efefef !important;
@@ -11,7 +13,7 @@ article {
 
 html {
   height: 100%;
-  background-color: $candice-green
+  background-color: $candice-brown
     /* Trick for firefox to avoid having a white line on scroll */;
 }
 
@@ -27,7 +29,7 @@ body {
 @media (min-width: 768px) {
   .blog-post {
     .content {
-      box-shadow: 0px 0px 8px 8px #576e57;
+      box-shadow: 0px 0px 8px 4px $candice-brown;
       border-radius: 10px;
       padding-top: 40px;
     }
@@ -44,7 +46,7 @@ body {
 }
 
 .navbar {
-  background-color: $candice-green;
+  background-color: $candice-brown;
   margin-bottom: 35px;
   justify-content: center;
   min-height: auto;
@@ -90,12 +92,19 @@ body {
   }
 }
 
+.banner-container {
+  width: 75%;
+  position: relative;
+  margin: auto;
+  position: relative;
+  display: flex;
+}
+
 .banner {
-  width: 90vw;
+  object-fit: cover;
+  width: 100%;
   height: 200px;
   position: relative;
-  left: 5%;
-  right: 5%;
   margin-bottom: 1rem;
 }
 
@@ -227,7 +236,7 @@ footer.footer {
 }
 
 .article-link {
-  color: #3e8823 !important;
+  color: $candice-brown !important;
   text-decoration: none !important;
 }
 
@@ -264,7 +273,7 @@ footer.footer {
 
 .hightlight {
   color: white;
-  background-color: $candice-green;
+  background-color: $candice-brown;
 }
 
 .search-icon {
@@ -425,7 +434,7 @@ footer.footer {
 .navbar-item {
   font-weight: 500;
   color: white;
-  background-color: $candice-green;
+  background-color: $candice-brown;
 }
 
 .navbar-item .icon {
@@ -547,4 +556,12 @@ a.navbar-item:hover {
 .zeroWasteBloc {
   margin-bottom: 50px;
   text-align: justify;
+}
+
+.has-background-black {
+  background-color: $candice-brown!important;
+}
+
+a.has-text-primary:hover {
+  color: $candice-camel!important;
 }

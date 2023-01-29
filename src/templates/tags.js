@@ -15,7 +15,7 @@ const TagRoute = ({ pageContext, data }) => {
     <Layout>
       <section>
         <Helmet title={`${tag} | ${title}`} />
-        <Banner title={CATEGORIES[tag]?.title || "Blog"} />
+        <Banner title={CATEGORIES[tag]?.title || "Blog"} tag={tag} />
         <div className="container content">
           <div role="main">
             {tag === "zerodechet" ? <ZeroWasteBloc /> : null}
