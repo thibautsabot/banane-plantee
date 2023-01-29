@@ -96,7 +96,7 @@ const Navbar = () => {
         <div id="navMenu" className={`navbar-menu ${navBarActiveClass}`}>
           <div className="navbar-start has-text-centered">
             <Link className="navbar-item" to="/tags/apero">
-              Apéritif
+              Apéritifs
             </Link>
             <Link className="navbar-item" to="/tags/entree">
               Entrées

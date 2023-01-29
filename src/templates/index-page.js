@@ -24,9 +24,9 @@ const IndexPage = () => {
                       </h1>
                       <p>
                         Passionnée de cuisine depuis des années, je réalise de
-                        nombreuses recettes. En tant amatrice, c’est une cuisine
-                        simple du quotidien mais que j’exécute avec le plus de
-                        gourmandise possible.
+                        nombreuses recettes. En tant amatrice, je fais une
+                        cuisine simple au quotidien mais que j’exécute avec le
+                        plus de gourmandise possible.
                         <br /> <br />
                         En fonction de mes humeurs et mes envies je vous partage
                         des recettes autant sucrées que salées. <br /> <br />

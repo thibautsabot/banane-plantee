@@ -28,7 +28,7 @@ export default function ZeroWasteBloc() {
         l'environnement et sur la planète.
       </p>
       <p>
-        Cela permet de remettre en question les modes de consommation actuels
+        Cela permet de remettre en question les modes de consommation actuels.
         Pour cela, il existe une règle d'or qui permet de débuter et mettre en
         place ce fonctionnement plus écologique dans la vie du quotidien :
         <br /> <strong>La règle des 5R</strong>
@@ -57,7 +57,7 @@ export default function ZeroWasteBloc() {
       </p>
       <p>
         Ainsi, maintenant j'ai décidé de plutôt parler de réduction des déchets
-        et de la modification du mon mode de consommation. En effet, mes
+        et de la modification de mon mode de consommation. En effet, mes
         habitudes et ma consommation ont totalement changé.
       </p>
       <p>
@@ -71,9 +71,8 @@ export default function ZeroWasteBloc() {
         je l'utilise. Et pour les déchets ménagers, j'utilise un composte.
       </p>
       <p>
-        Dans cette partie de mon blog, je vais donc vous partager mon
-        expérience, mes astuces et mon organisation en ce qui concerne le zéro
-        déchet.
+        Dans cette partie de mon blog, je vous partage mon expérience, mes
+        astuces et mon organisation en ce qui concerne le zéro déchet.
       </p>
     </div>
   );

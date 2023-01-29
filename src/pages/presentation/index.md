@@ -12,7 +12,7 @@ Mais le plus importante c’est que je suis <u>surtout</u> passionnée de cuis
 
 Ce blog est pour moi un espace de liberté et d’expression où je peux partager mes recettes de cuisine, mon expérience, mes astuces culinaires ainsi que mon mode de consommation et ma démarche de réduction de mes déchets.
 
-J’ai voulu créer ce blog pour pouvoir garder et partager mes recettes favorites, il est comme un livre de cuisine que j’utilise, feuillette au quotidien.
+J’ai voulu créer ce blog pour pouvoir garder et partager mes recettes favorites, il est comme un livre de cuisine que j’utilise et feuillette au quotidien.
 
 N'hésitez donc pas à vous balader sur **Bananeplantée** !
 
