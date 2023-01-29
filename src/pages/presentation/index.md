@@ -1,32 +1,19 @@
 ---
 templateKey: presentation-page
 path: /presentation
-title: Tout d'abord Bonjour et Bienvenue sur mon blog !
+title: Tout d'abord bonjour et bienvenue sur mon blog !
 ---
+
 ## Faisons un peu connaissance !
 
-Je m'appelle **Candice** et j'ai 27 ans. Originaire de la région Rhône-Alpes, j'habite actuellement sur Paris. Je suis infirmière depuis 5 ans et également en formation pour devenir d'art-thérapeute. Mais je suis <u>surtout</u> passionnée de cuisine. J'adore découvrir et tester de nouvelles recettes.
+Je m'appelle **Candice** et j'ai 28 ans. Originaire de la région Rhône-Alpes, j'habite actuellement sur Paris avec mon conjoint. Je suis infirmière depuis 7 ans et après avoir exercé pendant plusieurs années, j’ai décidé de me tourner vers l’art-thérapie. J’exerce actuellement les deux métiers à mi-temps.
 
-J'ai décidé de créer ce blog afin de partager mes recettes et astuces de cuisine. Mais, je souhaite également partager mon expérience, car je me suis lancée depuis un an dans une "démarche zéro déchet".
+Mais le plus importante c’est que je suis <u>surtout</u> passionnée de cuisine. Cela fait vraiment partie de mon quotidien, j'aime faire et tester de nouvelles recettes. Je suis une vraie gourmande qui adore manger et découvrir tout type de cuisine, que ça soit à Paris dans les différents restaurants ou lors de mes voyages à l’étranger.
 
-![Candice](/img/candice.png "Candice")
+Ce blog est pour moi un espace de liberté et d’expression où je peux partager mes recettes de cuisine, mon expérience, mes astuces culinaires ainsi que mon mode de consommation et ma démarche de réduction de mes déchets.
 
-## Mon cheminement vers le zéro déchet :
+J’ai voulu créer ce blog pour pouvoir garder et partager mes recettes favorites, il est comme un livre de cuisine que j’utilise, feuillette au quotidien.
 
-Avant de me lancer dans l'aventure zéro déchet, on pouvait me décrire comme une personne lambda qui triait ses déchets et pensait que cela suffisait. Je n'étais pas vraiment renseignée sur le sujet.
-
-Mais après de nombreuses heures de lectures, visionnage de reportages, recherches, partages et discussions, je me suis rendue compte que je pouvais modifier ma façon de consommer afin de limiter mon empreinte écologique. Et surtout, sans que cela ait un impact négatif sur ma vie (perte de temps, argent...), bien au contraire.
-
-*C'est donc ainsi que je me suis lancée dans l'aventure zéro déchet.*
-
-## Mais qu'est-ce que c'est ?
-
-Le zéro déchet est une démarche visant à **réduire notre production de déchet**. Plus qu'un objectif, c'est surtout un nouveau mode de consommation.
-
-Aujourd'hui, je suis encore loin d'une poubelle zéro déchet et je ne sais pas si j'y arriverai un jour. Mais ce qui est sûr c'est que mes habitudes et ma consommation ont totalement changé depuis quelques mois. Pour la plupart de mes achats je me questionne sur le besoin et l'envie. J'essaie ensuite de trouver la meilleure alternative d'achat. De même, pour les déchets j’essaie d’adopter les meilleures stratégies. Les déchets qui peuvent être réutilisable (vêtements, ustensiles de cuisine...) je les revends afin de leur donner une seconde vie. Pour les déchets à usage unique (sacs plastique, bouteilles d’eau, mouchoirs…) s’il existe une alternative réutilisables, je l’utilise. Et pour les déchets ménagers, j’ai même débuté un compost !
-
-*Mon objectif est donc de voir au fil du temps ma poubelle diminuer*. Toutefois, le chemin vers le total zéro déchet est long, je pense qu'il est important d'être **indulgent**, **patient** avec soi-même.
-
-Pour moi, le zéro déchet a une grande place dans la cuisine, je vais donc vous faire partager en plus de mes recettes, mes expériences, mes astuces dans ce blog. \
-\
 N'hésitez donc pas à vous balader sur **Bananeplantée** !
+
+![Candice](/img/candice.jpg "Candice")

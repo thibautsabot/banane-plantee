@@ -95,62 +95,58 @@ const Navbar = () => {
         </div>
         <div id="navMenu" className={`navbar-menu ${navBarActiveClass}`}>
           <div className="navbar-start has-text-centered">
-            <div className={`navbar-item has-dropdown ${subnavBarActiveClass}`}>
-              <Link className="navbar-link is-arrowless" to="/categories">
-                Recettes
-              </Link>
+            <Link className="navbar-item" to="/tags/apero">
+              Apéritif
+            </Link>
+            <Link className="navbar-item" to="/tags/entree">
+              Entrées
+            </Link>
+            <Link className="navbar-item" to="/tags/vegetarien">
+              Plats végétariens
+            </Link>
+            <Link className="navbar-item" to="/tags/plats">
+              Plats
+            </Link>
+            <Link className="navbar-item" to="/tags/dessert">
+              Desserts
+            </Link>
+            <Link className="navbar-item" to="/tags/petitdej">
+              Petits déjeuners
+            </Link>
+            <Link className="navbar-item" to="/tags/boissons">
+              Boissons
+            </Link>
+            <Link className="navbar-item" to="/tags/autres">
+              Autres
+            </Link>
+            <Link className="navbar-item" to="/tags/antigaspi">
+              Anti-gaspi
+            </Link>
+            <SearchQuery />
+            <div
+              className={`navbar-item has-dropdown ${subnavBarActiveClass}`}
+              onKeyPress={onSubNavBarKeyPress}
+              onClick={toggleSubNavbar}
+            >
+              <p className="navbar-link is-arrowless no-underline">Autres</p>
               <div
                 role="link"
-                onKeyPress={onSubNavBarKeyPress}
                 tabIndex="0"
-                onClick={toggleSubNavbar}
                 className={`menuArrowContainer ${subnavBarActiveClass}`}
                 aria-roledescription="Menu déroulant catégories"
               >
                 <div className="menuArrow" />
               </div>
               <div className="navbar-dropdown">
-                <Link className="navbar-item" to="/tags/apero">
-                  Apéritif
+                <Link className="navbar-item" to="/tags/zerodechet">
+                  Zéro déchet
                 </Link>
-                <Link className="navbar-item" to="/tags/entree">
-                  Entrées
-                </Link>
-                <Link className="navbar-item" to="/tags/vegetarien">
-                  Plats végétariens
-                </Link>
-                <Link className="navbar-item" to="/tags/plats">
-                  Plats
-                </Link>
-                <Link className="navbar-item" to="/tags/dessert">
-                  Desserts
-                </Link>
-                <Link className="navbar-item" to="/tags/petitdej">
-                  Petits déjeuners
-                </Link>
-                <Link className="navbar-item" to="/tags/boissons">
-                  Boissons
-                </Link>
-                <Link className="navbar-item" to="/tags/autres">
-                  Autres
-                </Link>
-                <Link className="navbar-item" to="/tags/antigaspi">
-                  Anti-gaspi
-                </Link>
-                <Link className="navbar-item" to="/tags/antiinflam">
-                  Anti-inflammatoire
+                <Link className="navbar-item" to="/presentation">
+                  Présentation
                 </Link>
               </div>
             </div>
-
-            <Link className="navbar-item" to="/tags/zerodechet">
-              Zéro déchet
-            </Link>
-            <Link className="navbar-item" to="/presentation">
-              Présentation
-            </Link>
           </div>
-          <SearchQuery />
         </div>
       </div>
     </nav>

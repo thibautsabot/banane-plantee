@@ -410,6 +410,10 @@ footer.footer {
   }
 }
 
+.no-underline:hover {
+  text-decoration: none!important;
+}
+
 .navbar-link {
   color: white;
 }
@@ -538,4 +542,9 @@ a.navbar-item:hover {
   image-rendering: -o-crisp-edges /* Opera */;
   image-rendering: -webkit-optimize-contrast /* Webkit (non-standard naming) */;
   image-rendering: crisp-edges;
+}
+
+.zeroWasteBloc {
+  margin-bottom: 50px;
+  text-align: justify;
 }

@@ -23,22 +23,18 @@ const IndexPage = () => {
                         Bienvenue dans ma cuisine !
                       </h1>
                       <p>
-                        Après quelques mois d'absence, je reviens vous partager
-                        mes recettes de cuisine et mes astuces zéro déchet.
+                        Passionnée de cuisine depuis des années, je réalise de
+                        nombreuses recettes. En tant amatrice, c’est une cuisine
+                        simple du quotidien mais que j’exécute avec le plus de
+                        gourmandise possible.
                         <br /> <br />
-                        Toujours autant passionnée de cuisine, je continue à
-                        réaliser de nombreuses recettes et je suis toujours dans
-                        une démarche de réduction de mes déchets. Mais cela
-                        demande du temps, de la patience et de l'adaptation
-                        alors sur ce blog je vous partage mon expérience, mes
-                        astuces et mon organisation en ce qui concerne le zéro
-                        déchet. <br /> <br />
+                        En fonction de mes humeurs et mes envies je vous partage
+                        des recettes autant sucrées que salées. <br /> <br />
                         <Link to="/presentation">
                           Si vous voulez en savoir plus sur moi
-                        </Link>
-                        , ma prise de conscience et mon envie de réduire mon
-                        impact écologique, n’hésitez pas à vous rendre dans la
-                        partie présentation.
+                        </Link>{" "}
+                        et sur les raisons de la création de ce blog, n’hésitez
+                        pas à vous rendre dans la partie présentation.
                       </p>
                       <p>
                         Bonne visite sur <strong>Bananeplantée !</strong>

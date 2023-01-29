@@ -4,6 +4,7 @@ import { CATEGORIES } from "../components/Categories";
 import { Helmet } from "react-helmet";
 import Layout from "../components/Layout";
 import React from "react";
+import ZeroWasteBloc from "./zeroWasteBloc";
 import { graphql } from "gatsby";
 
 const TagRoute = ({ pageContext, data }) => {
@@ -17,6 +18,7 @@ const TagRoute = ({ pageContext, data }) => {
         <Banner title={CATEGORIES[tag]?.title || "Blog"} />
         <div className="container content">
           <div role="main">
+            {tag === "zerodechet" ? <ZeroWasteBloc /> : null}
             <BlogRoll data={data} />
           </div>
         </div>
