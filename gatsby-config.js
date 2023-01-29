@@ -24,7 +24,7 @@ module.exports = {
         short_name: "Banane plantee",
         start_url: "/",
         background_color: "#FFFFFF",
-        theme_color: "#008000",
+        theme_color: "#694c3c",
         display: "standalone",
         icon: "src/img/square-icon.png",
         icon_options: {

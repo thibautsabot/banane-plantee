@@ -2,7 +2,7 @@ import React from "react";
 
 export default function ZeroWasteBloc() {
   return (
-    <div className="zeroWasteBloc">
+    <section className="zeroWasteBloc section">
       <h2>Mon cheminement : </h2>
       <p>
         Il y a quelques années on pouvait me décrire comme une personne lambda
@@ -74,6 +74,6 @@ export default function ZeroWasteBloc() {
         Dans cette partie de mon blog, je vous partage mon expérience, mes
         astuces et mon organisation en ce qui concerne le zéro déchet.
       </p>
-    </div>
+    </section>
   );
 }
