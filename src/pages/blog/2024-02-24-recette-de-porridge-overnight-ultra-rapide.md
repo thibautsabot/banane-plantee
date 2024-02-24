@@ -3,9 +3,9 @@ templateKey: blog-post
 title: " Recette de porridge overnight ultra rapide"
 date: 2024-02-24T14:42:14.999Z
 description: "Traditionnellement le porridge est une recette à base de céréales
-  bouillie pour le petit-déjeuner. Le porridge overnight se réalise la veille en
-  quelques minutes.  C’est une recette parfaite pour un petit-déjeuner sain et
-  nutritif pour un quotidien simplifié. "
+  bouillies pour le petit-déjeuner. Le porridge overnight se réalise la veille
+  en quelques minutes.  C’est une recette parfaite pour un petit-déjeuner sain
+  et nutritif pour un quotidien simplifié. "
 featuredpost: true
 featuredimage: /img/minia-2-porridge.jpg
 tags:
