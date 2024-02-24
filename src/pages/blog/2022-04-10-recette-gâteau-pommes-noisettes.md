@@ -1,7 +1,7 @@
 ---
 templateKey: blog-post
 title: "Recette gâteau pommes-noisettes "
-date: 2022-04-10T16:06:15.250Z
+date: 2024-02-01T14:04:18.517Z
 description: >
   Recette du gâteau au yaourt revisité avec des pommes et de la noisette, un
   vrai délice. 
@@ -27,6 +27,8 @@ Temps de cuisson : 25min
 * 1/2 sachet de levure chimique
 * 1/3 d’huile neutre
 
+*L﻿e pot de yaourt nature servira de mesure pour les autres ingrédients.*
+
 ## Réalisation :
 
 Préchauffez le four à 180°.
@@ -39,7 +41,8 @@ Ajoutez ensuite les noisettes concassées et les morceaux pomme.
 
 ![Préparation noisettes-miel-pommes](/img/prepa-dessus-gateau.png "Miel, noisettes et pommes déposé au fond 'un moule beurré et fariné ")
 
-Dans un saladier, préparez l’appareil à gâteau en versant les ingrédients suivants : le yaourt, la farine, la poudre de noisette, le sucre, la levure, les œufs et la compote.\
+Dans un saladier, préparez l’appareil à gâteau en versant les ingrédients suivants : \
+le yaourt, la farine, la poudre de noisette, le sucre, la levure, les œufs et la compote.\
 Mélangez bien jusqu’à obtenir une pâte homogène.\
 Pour finir, ajoutez l’huile et mélangez à nouveau.
 
