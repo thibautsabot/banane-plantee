@@ -25,7 +25,7 @@ Temps de cuisson : 25min
 * 2 œufs
 * 1/2 pot de compote de pommes
 * 1/2 sachet de levure chimique
-* 1/3 d’huile
+* 1/3 d’huile neutre
 
 ## Réalisation :
 
